@@ -1,7 +1,0 @@
-syntax: glob
-
-Debug
-Release
-x64
-.vs
-
